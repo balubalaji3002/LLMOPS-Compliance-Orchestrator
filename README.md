@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="ChatGPT Image May 28, 2026, 11_40_38 AM" src="https://github.com/user-attachments/assets/0fa7ad0d-c301-4b00-9143-f3b82d430170" />
 # Azure Multi-Modal Compliance Orchestration Engine using LangGraph and LangSmith
 
 ## Overview
